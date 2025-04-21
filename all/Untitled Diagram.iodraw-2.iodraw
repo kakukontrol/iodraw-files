@@ -102,16 +102,16 @@
           <mxGeometry y="180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-70" value="Home" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-53">
-          <mxGeometry x="-10" y="20" width="60" height="30" as="geometry" />
+          <mxGeometry x="-10" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-73" value="Home" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-53">
-          <mxGeometry x="-10" y="80" width="60" height="30" as="geometry" />
+          <mxGeometry x="-10" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-72" value="Home" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-53">
-          <mxGeometry x="-10" y="60" width="60" height="30" as="geometry" />
+          <mxGeometry x="-10" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-71" value="Home" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-53">
-          <mxGeometry x="-10" y="40" width="60" height="30" as="geometry" />
+          <mxGeometry x="-10" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-54" value="opened sidebar" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;strokeColor=none;container=0;spacingTop=0;spacing=2;fontFamily=Lucida Console;fontSize=8;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="687.5" width="80" as="geometry" />
