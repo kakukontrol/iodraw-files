@@ -38,8 +38,8 @@
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-30" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="730" as="sourcePoint" />
-            <mxPoint x="500" y="730" as="targetPoint" />
+            <mxPoint x="200" y="650" as="sourcePoint" />
+            <mxPoint x="360" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-31" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-30">
