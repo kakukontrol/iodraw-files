@@ -22,6 +22,12 @@
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#F8FCF2;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="360" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-20" value="Item" style="shape=partialRectangle;fillColor=none;align=left;verticalAlign=middle;strokeColor=none;spacingLeft=34;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-21" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;fillColor=none;stokeWidth=1;dashed=1;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" vertex="1" connectable="0" parent="1SD0cbh-x1hUQx_Sna2Q-20">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
