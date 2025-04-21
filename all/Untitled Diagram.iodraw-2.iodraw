@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-69" value="&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 6px;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;EliteViralAI&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=6;" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-53">
-          <mxGeometry x="-26" width="106" height="20" as="geometry" />
+          <mxGeometry y="180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-54" value="opened sidebar" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;strokeColor=none;container=0;spacingTop=0;spacing=2;fontFamily=Lucida Console;fontSize=8;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="687.5" width="80" as="geometry" />
