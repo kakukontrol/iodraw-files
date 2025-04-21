@@ -25,9 +25,9 @@
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.223;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1SD0cbh-x1hUQx_Sna2Q-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="380" as="sourcePoint" />
-            <mxPoint x="320" y="360" as="targetPoint" />
+            <mxPoint x="280" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280" y="360" />
+              <mxPoint x="320" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
