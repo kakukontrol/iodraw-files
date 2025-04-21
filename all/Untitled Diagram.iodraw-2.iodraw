@@ -83,7 +83,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-53" value="" style="group;textShadow=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-53" value="" style="group;textShadow=1;labelBorderColor=none;fontColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="440" y="440" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#F8FCF2;strokeColor=#36393d;container=0;" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-53">
