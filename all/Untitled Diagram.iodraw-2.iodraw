@@ -158,6 +158,9 @@
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-19" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.web_store;" vertex="1" parent="1">
           <mxGeometry x="480" y="570" width="50" height="54" as="geometry" />
         </mxCell>
+        <mxCell id="Yqz-1kBjntcSbzwSuUGi-20" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.stumbleupon;fillColor=#FA823C;gradientColor=#E12110" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="102.4" height="102.4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
