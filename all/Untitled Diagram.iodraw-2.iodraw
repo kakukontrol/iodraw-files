@@ -143,6 +143,15 @@
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#F9F3EA;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="50" y="450" width="10" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="Yqz-1kBjntcSbzwSuUGi-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#F9F3EA;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Yqz-1kBjntcSbzwSuUGi-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#F9F3EA;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1000" width="10" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Yqz-1kBjntcSbzwSuUGi-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#F9F3EA;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="440" y="760" width="10" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
