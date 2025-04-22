@@ -98,11 +98,6 @@
             <mxPoint x="15" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yqz-1kBjntcSbzwSuUGi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1SD0cbh-x1hUQx_Sna2Q-53" source="1SD0cbh-x1hUQx_Sna2Q-69">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-20" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-69" value="&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 6px;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;EliteViralAI&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=6;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
           <mxGeometry y="180" width="80" height="20" as="geometry" />
         </mxCell>
@@ -141,6 +136,9 @@
         </mxCell>
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-3" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 8px;&quot;&gt;logo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="695" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yqz-1kBjntcSbzwSuUGi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1SD0cbh-x1hUQx_Sna2Q-69" target="Yqz-1kBjntcSbzwSuUGi-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
