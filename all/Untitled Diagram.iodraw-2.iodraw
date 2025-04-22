@@ -128,8 +128,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yqz-1kBjntcSbzwSuUGi-1" value="settings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="555" y="683" width="50" height="20" as="geometry" />
+        <mxCell id="Yqz-1kBjntcSbzwSuUGi-1" value="settings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="550" y="683" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1SD0cbh-x1hUQx_Sna2Q-75" target="Yqz-1kBjntcSbzwSuUGi-1">
           <mxGeometry relative="1" as="geometry" />
