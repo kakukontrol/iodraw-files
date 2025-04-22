@@ -102,7 +102,7 @@
           <mxGeometry y="180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-70" value="Meeting room" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
-          <mxGeometry y="10" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-73" value="Home" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
           <mxGeometry x="-10" y="70" width="60" height="30" as="geometry" />
