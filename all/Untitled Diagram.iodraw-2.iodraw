@@ -155,8 +155,8 @@
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#F9F3EA;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="440" y="760" width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Yqz-1kBjntcSbzwSuUGi-19" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.web_store;" vertex="1" parent="1">
-          <mxGeometry x="480" y="570" width="50" height="54" as="geometry" />
+        <mxCell id="Yqz-1kBjntcSbzwSuUGi-21" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="16" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
