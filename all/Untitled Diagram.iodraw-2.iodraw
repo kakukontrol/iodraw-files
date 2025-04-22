@@ -108,13 +108,13 @@
           <mxGeometry x="10" y="70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-72" value="Home" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
-          <mxGeometry x="-10" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-75" value="" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
           <mxGeometry x="60" y="170" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-71" value="Dashboard" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
-          <mxGeometry x="-10" y="10" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="10" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-54" value="opened sidebar" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;strokeColor=none;container=0;spacingTop=0;spacing=2;fontFamily=Lucida Console;fontSize=8;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="700" width="80" as="geometry" />
