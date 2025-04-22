@@ -101,13 +101,13 @@
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-69" value="&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 6px;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;EliteViralAI&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=right;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=6;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
           <mxGeometry y="180" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-70" value="Meeting room" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
+        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-70" value="Meeting room" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
           <mxGeometry x="10" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-73" value="Database" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
           <mxGeometry x="10" y="70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-72" value="Intelligence" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
+        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-72" value="Intelligence" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
           <mxGeometry x="10" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-75" value="" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
