@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="JCl1KpjAyLuIFbf0c15E">
-    <mxGraphModel dx="382" dy="226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="280" dy="166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,9 +72,6 @@
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-39" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#F9F3EA;strokeColor=#36393d;" parent="1SD0cbh-x1hUQx_Sna2Q-50" vertex="1">
           <mxGeometry width="10" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Yqz-1kBjntcSbzwSuUGi-32" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.bandwidth;" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-50">
-          <mxGeometry x="340" y="25" width="45" height="45" as="geometry" />
-        </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-51" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;closed sidebar&lt;/font&gt;" style="html=1;verticalAlign=top;fillColor=none;strokeColor=none;strokeWidth=1;fontSize=8;rounded=1;fontFamily=Lucida Console;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="687.5" width="80" height="25" as="geometry" />
         </mxCell>
@@ -130,6 +127,9 @@
         </mxCell>
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-31" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.archive;" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-53">
           <mxGeometry x="10" y="140" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Yqz-1kBjntcSbzwSuUGi-32" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.bandwidth;" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-53">
+          <mxGeometry x="10" y="30" width="15" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-54" value="opened sidebar" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;strokeColor=none;container=0;spacingTop=0;spacing=2;fontFamily=Lucida Console;fontSize=8;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="700" width="80" as="geometry" />
