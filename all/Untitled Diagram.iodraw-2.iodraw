@@ -129,7 +129,7 @@
           <mxGeometry x="8.75" y="35.63" width="12.5" height="8.75" as="geometry" />
         </mxCell>
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-33" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.search;" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-53">
-          <mxGeometry x="10" y="125" width="15" height="10" as="geometry" />
+          <mxGeometry x="10" y="125" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-35" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.dynamic_distribution_group;" vertex="1" parent="1SD0cbh-x1hUQx_Sna2Q-53">
           <mxGeometry x="11" y="50" width="8" height="10" as="geometry" />
