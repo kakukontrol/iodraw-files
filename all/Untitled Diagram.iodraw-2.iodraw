@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="JCl1KpjAyLuIFbf0c15E">
-    <mxGraphModel dx="913" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="750" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -574,7 +574,7 @@
           <mxGeometry x="520" y="365" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-198" value="&lt;div&gt;Main description:&lt;/div&gt;&lt;div&gt;##### Scalable AI Chat Box for Personal Use.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;**Platform**: Windows 11&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;**Tools**: Free/Open-Source Only&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;**Focus**: Personal Use, Scalability, Modularity&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;### Basic structure:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- **User-Friendly GUI**: Modern interface with light/dark mode.&lt;/div&gt;&lt;div&gt;- **AI Integration**: Use only open-source &amp;amp; free models, tools &amp;amp; services.&lt;/div&gt;&lt;div&gt;- **Scalability**: Modular architecture to add features (e.g., plugins, new models, api) without overhauling code.&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="145" width="450" height="240" as="geometry" />
+          <mxGeometry x="710" y="145" width="450" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
