@@ -535,6 +535,9 @@
         <mxCell id="lxbcZctfLqqwQQt2rgfh-90" value="&lt;span style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 6px; font-weight: 700; text-align: right;&quot;&gt;EliteViralAI&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="353" y="205" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-92" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="12" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
