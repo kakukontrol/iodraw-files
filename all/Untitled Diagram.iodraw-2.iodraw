@@ -546,6 +546,9 @@
         <mxCell id="lxbcZctfLqqwQQt2rgfh-94" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;" vertex="1" parent="1">
           <mxGeometry x="462" y="370" width="8" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-95" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_unprotected;fillColor=#7FBA42;" vertex="1" parent="1">
+          <mxGeometry x="530" y="348" width="10" height="12" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
