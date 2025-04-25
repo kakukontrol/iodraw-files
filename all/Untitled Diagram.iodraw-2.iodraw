@@ -537,11 +537,14 @@
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxbcZctfLqqwQQt2rgfh-92">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="340" as="targetPoint" />
+            <mxPoint x="480" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-92" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;" vertex="1" parent="1">
           <mxGeometry x="415" y="300" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-94" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="38" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
