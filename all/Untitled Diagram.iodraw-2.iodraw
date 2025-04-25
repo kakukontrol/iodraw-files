@@ -547,10 +547,10 @@
           <mxGeometry x="462" y="370" width="8" height="10" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-105" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#CCCBCB;" vertex="1" parent="1">
-          <mxGeometry x="332" y="230" width="46" height="50" as="geometry" />
+          <mxGeometry x="332" y="205" width="46" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-104" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;" vertex="1" parent="1">
-          <mxGeometry x="328" y="195" width="50" height="50" as="geometry" />
+          <mxGeometry x="330" y="197.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-95" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_unprotected;fillColor=#7FBA42;" vertex="1" parent="1">
           <mxGeometry x="490" y="369" width="10" height="12" as="geometry" />
