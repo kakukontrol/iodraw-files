@@ -564,6 +564,9 @@
         <mxCell id="lxbcZctfLqqwQQt2rgfh-108" value="&lt;div&gt;&lt;i style=&quot;font-size: 6px; background-color: initial;&quot;&gt;- logo&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 6px; background-color: initial;&quot;&gt;- a 1.5 sec. loading bar, on the right on the logo&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 6px; background-color: initial;&quot;&gt;- end of loading bar, loading bar shake to a writing &quot;access granted&quot;&lt;/i&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="130" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-109" value="&lt;div&gt;&lt;i style=&quot;font-size: 6px; background-color: initial;&quot;&gt;- logo&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 6px; background-color: initial;&quot;&gt;- a 1.5 sec. loading bar, on the right on the logo&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 6px; background-color: initial;&quot;&gt;- end of loading bar, loading bar shake to a writing &quot;access granted&quot;&lt;/i&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="130" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
