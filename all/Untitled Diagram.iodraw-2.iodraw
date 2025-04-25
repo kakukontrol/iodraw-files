@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="JCl1KpjAyLuIFbf0c15E">
-    <mxGraphModel dx="2062" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2327" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -584,6 +584,9 @@
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-202" value="&lt;b&gt;&lt;span style=&quot;color: rgb(226, 226, 229); font-family: monospace; font-size: 13px; white-space-collapse: preserve; background-color: rgb(36, 38, 41);&quot;&gt;**dev (Development)**&lt;br&gt;    *   frontend&lt;br&gt;        *   u.i.&lt;br&gt;        *   a.i. chat box &lt;/span&gt;&lt;span class=&quot;hljs-class&quot; style=&quot;box-sizing: border-box; color: rgb(226, 226, 229); font-family: monospace; font-size: 13px; white-space-collapse: preserve; background-color: rgb(36, 38, 41);&quot;&gt;&lt;span class=&quot;hljs-keyword&quot; style=&quot;box-sizing: border-box; color: rgb(244, 112, 103);&quot;&gt;interface&lt;/span&gt;:&lt;br&gt;            &lt;span class=&quot;hljs-type&quot; style=&quot;box-sizing: border-box; color: rgb(244, 112, 103);&quot;&gt;*   sidebar:&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(226, 226, 229); font-family: monospace; font-size: 13px; white-space-collapse: preserve; background-color: rgb(36, 38, 41);&quot;&gt;&lt;br&gt;                *   chat box&lt;br&gt;                *   analyzer&lt;br&gt;                *   stats&lt;br&gt;                *   settings&lt;br&gt;                *   a.p.i. key&lt;br&gt;                *   dark/light mode&lt;br&gt;                *   others&lt;br&gt;    *   backend&lt;br&gt;&lt;div style=&quot;&quot;&gt;        *   a.p.i.:&lt;/div&gt;&lt;/span&gt;&lt;/b&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="130" width="310" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-203" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1010" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
