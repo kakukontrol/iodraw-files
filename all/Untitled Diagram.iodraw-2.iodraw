@@ -260,14 +260,6 @@
         <mxCell id="lxbcZctfLqqwQQt2rgfh-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="460" y="770" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="lxbcZctfLqqwQQt2rgfh-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxbcZctfLqqwQQt2rgfh-15" target="lxbcZctfLqqwQQt2rgfh-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="860" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1035" y="810" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="510" y="770" width="240" height="180" as="geometry" />
         </mxCell>
@@ -331,19 +323,6 @@
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="755" y="770" width="40" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="lxbcZctfLqqwQQt2rgfh-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.579;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lxbcZctfLqqwQQt2rgfh-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="957.77" y="845.75" as="targetPoint" />
-            <mxPoint x="792.24" y="890.0000000000002" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="792" y="920" />
-              <mxPoint x="792" y="820" />
-              <mxPoint x="957" y="820" />
-              <mxPoint x="957" y="830" />
-              <mxPoint x="958" y="830" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-45" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- main chat box&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- user - a.i. / a.i. - user&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="845" width="70" height="30" as="geometry" />
