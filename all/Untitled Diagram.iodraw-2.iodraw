@@ -119,7 +119,7 @@
           <mxGeometry x="25" y="75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-29" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.clipboard;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
-          <mxGeometry x="11.63" y="65" width="10" height="10" as="geometry" />
+          <mxGeometry x="10" y="85" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-31" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.archive;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
           <mxGeometry x="10" y="140" width="10" height="10" as="geometry" />
@@ -194,6 +194,7 @@
             <mxPoint x="430" y="1270" as="targetPoint" />
             <mxPoint x="456.5940594059406" y="514" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="455" y="510" />
               <mxPoint x="430" y="510" />
               <mxPoint x="430" y="1260" />
             </Array>
