@@ -544,7 +544,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-102" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#7FBA42;" vertex="1" parent="1">
-          <mxGeometry x="330" y="180" width="46" height="50" as="geometry" />
+          <mxGeometry x="330" y="185" width="46" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-94" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;" vertex="1" parent="1">
           <mxGeometry x="462" y="370" width="8" height="10" as="geometry" />
@@ -553,7 +553,10 @@
           <mxGeometry x="490" y="369" width="10" height="12" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-90" value="&lt;span style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 6px; font-weight: 700; text-align: right;&quot;&gt;EliteViralAI&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="353" y="205" width="60" height="30" as="geometry" />
+          <mxGeometry x="354" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-103" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#DA4026;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="46" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
