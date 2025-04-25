@@ -351,8 +351,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxbcZctfLqqwQQt2rgfh-45" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;nain&amp;nbsp;&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="845" width="60" height="30" as="geometry" />
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-45" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- main chat box&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- user - a.i. / a.i. - user&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="845" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
