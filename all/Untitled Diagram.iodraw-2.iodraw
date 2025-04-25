@@ -553,10 +553,10 @@
           <mxGeometry x="490" y="369" width="10" height="12" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-105" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#CCCBCB;" vertex="1" parent="1">
-          <mxGeometry x="310" y="195" width="56" height="60" as="geometry" />
+          <mxGeometry x="320" y="200" width="46" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-102" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.node_generic;fillColor=#7FBA42;" vertex="1" parent="1">
-          <mxGeometry x="330" y="197.5" width="46" height="45" as="geometry" />
+          <mxGeometry x="332" y="202.5" width="46" height="45" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-90" value="&lt;span style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 6px; font-weight: 700; text-align: right;&quot;&gt;EliteViralAI&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="205" width="60" height="30" as="geometry" />
