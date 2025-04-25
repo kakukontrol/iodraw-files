@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="JCl1KpjAyLuIFbf0c15E">
-    <mxGraphModel dx="500" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="600" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -474,7 +474,7 @@
         <mxCell id="lxbcZctfLqqwQQt2rgfh-64" value="&lt;i style=&quot;font-size: 6px;&quot;&gt;other ideas to come...&lt;/i&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="1565" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lxbcZctfLqqwQQt2rgfh-65" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- main chat box&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- user - a.i. / a.i. - user&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-65" value="&lt;i style=&quot;font-size: 6px;&quot;&gt;other ideas to come...&lt;/i&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1565" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-67" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- main chat box&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- user - a.i. / a.i. - user&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
