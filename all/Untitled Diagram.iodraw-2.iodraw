@@ -536,7 +536,7 @@
           <mxGeometry x="353" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-91" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#7FBA42;" vertex="1" parent="1">
-          <mxGeometry x="435" y="230" width="38" height="52" as="geometry" />
+          <mxGeometry x="413" y="290" width="13" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
