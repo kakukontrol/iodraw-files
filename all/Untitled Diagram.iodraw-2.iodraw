@@ -351,8 +351,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxbcZctfLqqwQQt2rgfh-42" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Lucida Console&quot;&gt;-main chat box&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Lucida Console&quot;&gt;-a.i. - user -a.i.&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="845" width="80" height="30" as="geometry" />
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-45" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="890" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
