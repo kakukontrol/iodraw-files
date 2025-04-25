@@ -561,8 +561,8 @@
         <mxCell id="lxbcZctfLqqwQQt2rgfh-90" value="&lt;span style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 6px; font-weight: 700; text-align: right;&quot;&gt;EliteViralAI&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="215" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lxbcZctfLqqwQQt2rgfh-108" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- user text-to-a.i. chat section&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- photo/doc upload&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;other ideas to come...&lt;/i&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="200" width="90" height="75" as="geometry" />
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-108" value="&lt;div&gt;&lt;i style=&quot;font-size: 6px; background-color: initial;&quot;&gt;- logo&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 6px; background-color: initial;&quot;&gt;- a 1.5 sec. loading bar, on the right on the logo&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 6px; background-color: initial;&quot;&gt;- end of loading bar, loading bar shake to a writing &quot;access granded&quot;&lt;/i&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
