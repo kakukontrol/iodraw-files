@@ -149,11 +149,11 @@
           <mxGeometry x="20" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-54" value="opened sidebar" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;strokeColor=none;container=0;spacingTop=0;spacing=2;fontFamily=Lucida Console;fontSize=8;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="700" width="80" as="geometry" />
+          <mxGeometry x="445" y="700" width="80" as="geometry" />
         </mxCell>
-        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1SD0cbh-x1hUQx_Sna2Q-13" edge="1">
+        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1SD0cbh-x1hUQx_Sna2Q-13" target="1SD0cbh-x1hUQx_Sna2Q-54" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="680" as="targetPoint" />
+            <mxPoint x="520" y="680" as="targetPoint" />
             <Array as="points">
               <mxPoint x="480" y="690" />
               <mxPoint x="480" y="690" />
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-1" value="settings" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="530" y="680" width="60" height="20" as="geometry" />
+          <mxGeometry x="570" y="692.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yqz-1kBjntcSbzwSuUGi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1SD0cbh-x1hUQx_Sna2Q-75" target="Yqz-1kBjntcSbzwSuUGi-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
