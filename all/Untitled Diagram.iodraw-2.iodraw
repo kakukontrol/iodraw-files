@@ -592,7 +592,7 @@
           <mxGeometry x="-240" y="720" width="330" height="280" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-206" value="&lt;span style=&quot;color: rgb(226, 226, 229); font-family: monospace; font-size: 13px; white-space-collapse: preserve; background-color: rgb(36, 38, 41);&quot;&gt;**User (Interactions / Outcomes)**&lt;br&gt;    *   receive a.i. insights&lt;br&gt;        *   media &lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(244, 112, 103); font-family: monospace; font-size: 13px; white-space-collapse: preserve; background-color: rgb(36, 38, 41);&quot; class=&quot;hljs-keyword&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: rgb(226, 226, 229); font-family: monospace; font-size: 13px; white-space-collapse: preserve; background-color: rgb(36, 38, 41);&quot;&gt;:&lt;br&gt;            *   Image: subject, style, number, other&lt;br&gt;            *   video: subject, style, number, other, top X, music X with images X, automated video creation, others&lt;br&gt;            *   music &amp;amp; sound: subject, style, number, other&lt;br&gt;        *   viral ideas:&lt;br&gt;            *   trends&lt;br&gt;            *   news&lt;/span&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="430" width="400" height="230" as="geometry" />
+          <mxGeometry x="1180" y="500" width="400" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
