@@ -311,11 +311,11 @@
         <mxCell id="lxbcZctfLqqwQQt2rgfh-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="460" y="1820" width="260" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="lxbcZctfLqqwQQt2rgfh-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lxbcZctfLqqwQQt2rgfh-15" target="lxbcZctfLqqwQQt2rgfh-49">
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxbcZctfLqqwQQt2rgfh-15" target="lxbcZctfLqqwQQt2rgfh-49">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="830" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1120" y="780" />
-              <mxPoint x="1120" y="845" />
+              <mxPoint x="1130" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
