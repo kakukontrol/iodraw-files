@@ -553,7 +553,7 @@
           <mxGeometry x="490" y="369" width="10" height="12" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-101" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.laptop;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="80" height="44" as="geometry" />
+          <mxGeometry x="338" y="205" width="90" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
