@@ -512,6 +512,9 @@
         <mxCell id="lxbcZctfLqqwQQt2rgfh-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxbcZctfLqqwQQt2rgfh-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="1760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="1770" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
