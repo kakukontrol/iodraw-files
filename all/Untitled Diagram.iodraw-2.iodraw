@@ -262,7 +262,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lxbcZctfLqqwQQt2rgfh-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lxbcZctfLqqwQQt2rgfh-14" target="lxbcZctfLqqwQQt2rgfh-47">
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxbcZctfLqqwQQt2rgfh-14" target="lxbcZctfLqqwQQt2rgfh-47">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="962.8718449519231" y="810" as="targetPoint" />
             <Array as="points">
@@ -435,7 +435,7 @@
         <mxCell id="lxbcZctfLqqwQQt2rgfh-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="755" y="770" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="lxbcZctfLqqwQQt2rgfh-45" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- user text-to-a.i. chat section&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- photo/doc upload&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-45" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- user text-to-a.i. chat section&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- photo/doc upload&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;other ideas to come...&lt;/i&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="845" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-47" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;i&gt;- chat history section&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 6px;&quot;&gt;other ideas to come...&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#6c8ebf;align=left;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
