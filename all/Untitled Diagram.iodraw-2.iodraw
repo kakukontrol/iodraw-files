@@ -106,7 +106,7 @@
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-73" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Archives&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
           <mxGeometry x="25" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-72" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Memo&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
+        <mxCell id="1SD0cbh-x1hUQx_Sna2Q-72" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Intelligence&lt;/font&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontFamily=Lucida Console;" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
           <mxGeometry x="25" y="55.62" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1SD0cbh-x1hUQx_Sna2Q-75" value="" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" parent="1SD0cbh-x1hUQx_Sna2Q-53" vertex="1">
@@ -209,6 +209,9 @@
               <mxPoint x="420" y="1100" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-1" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
