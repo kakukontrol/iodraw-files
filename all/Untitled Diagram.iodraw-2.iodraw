@@ -274,6 +274,10 @@
         <mxCell id="lxbcZctfLqqwQQt2rgfh-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lxbcZctfLqqwQQt2rgfh-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="910" />
+              <mxPoint x="840" y="810" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
