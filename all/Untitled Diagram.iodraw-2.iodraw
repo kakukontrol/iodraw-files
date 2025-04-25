@@ -557,6 +557,9 @@
         <mxCell id="lxbcZctfLqqwQQt2rgfh-90" value="&lt;span style=&quot;font-family: &amp;quot;Lucida Console&amp;quot;; font-size: 6px; font-weight: 700; text-align: right;&quot;&gt;EliteViralAI&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="215" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-107" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
