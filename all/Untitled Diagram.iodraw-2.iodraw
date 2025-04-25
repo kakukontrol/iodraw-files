@@ -574,7 +574,7 @@
           <mxGeometry x="520" y="365" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-198" value="&lt;div&gt;Basic structure:&lt;/div&gt;&lt;div&gt;**Platform**: Windows 11&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;**Tools**: Free/Open-Source Only&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;**Focus**: Personal Use, Scalability, Modularity&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;### Basic structure:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- **User-Friendly GUI**: Modern interface with light/dark mode.&lt;/div&gt;&lt;div&gt;- **AI Integration**: Use only open-source &amp;amp; free models, tools &amp;amp; services.&lt;/div&gt;&lt;div&gt;- **Scalability**: Modular architecture to add features (e.g., plugins, new models, api) without overhauling code.&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="145" width="450" height="240" as="geometry" />
+          <mxGeometry x="640" y="245" width="450" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
