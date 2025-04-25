@@ -309,7 +309,10 @@
           <mxGeometry x="730" y="1730" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="lxbcZctfLqqwQQt2rgfh-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1730" width="90" height="80" as="geometry" />
+          <mxGeometry x="460" y="1730" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lxbcZctfLqqwQQt2rgfh-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1820" width="90" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
